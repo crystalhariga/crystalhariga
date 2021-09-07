@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @crystalhariga!
 - 🌱 I’m currently learning how to utilize R and Python on applied ML projects
-- 👀 Interests: Asian entertainment, consumer behavior, technology
+- 👀 Interests: culture, consumer behavior, technology
 - 💞️ Thanks for checking out my profile!
 
 ### 📫 Feel free to reach me via
