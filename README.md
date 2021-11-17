@@ -5,8 +5,6 @@
 - 👀 Interests: culture, consumer behavior, technology
 - 💞️ Thanks for checking out my profile!
 
-### 📫 Feel free to reach me via
-[LinkedIn](https://www.linkedin.com/in/cahyarini-hariga/) / Email chariga@brandeis.edu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crystalhariga)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -15,6 +13,8 @@
 
 
 
+### 📫 Feel free to reach me via
+[LinkedIn](https://www.linkedin.com/in/cahyarini-hariga/) / Email chariga@brandeis.edu
 
 
 ### :bell: Stay tuned for upcoming projects!
