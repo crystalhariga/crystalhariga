@@ -8,7 +8,7 @@
 ### 📫 Feel free to reach me via
 [LinkedIn](https://www.linkedin.com/in/cahyarini-hariga/) / Email chariga@brandeis.edu
 
-[![Crystal's github stats](https://github-readme-stats.vercel.app/api?username=crystalhariga1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Crystal's github stats](https://github-readme-stats.vercel.app/api?username=crystalhariga&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
