@@ -1,16 +1,27 @@
 # Cahyarini (Crystal) Hariga
 
 - 👋 Hi, I’m @crystalhariga!
-- 🌱 I’m currently learning how to utilize R and Python on applied ML projects
+- 🌱 Learning more about: Applied Data Analytics, Machine Learning
 - 👀 Interests: culture, consumer behavior, technology
 - 💞️ Thanks for checking out my profile!
+
+## Data Analytics Projects
+### Visualization
+- [Starting a Small Business in 2021](https://github.com/crystalhariga/data_visualization_consultancy)
+
+### Modelling
+- [Predicting Cancer Cases in the US](https://github.com/crystalhariga/cancer_ml)
+- [Predicting Customer's Response to a Digital Marketing Campaign](https://github.com/crystalhariga/predictive-modeling_digital-marketing)
+
+### End-to-End
+- [Movie Recommender Web App](https://github.com/crystalhariga/movie-recommender-2021)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crystalhariga)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Crystal's github stats](https://github-readme-stats.vercel.app/api?username=crystalhariga&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--- [![Crystal's github stats](https://github-readme-stats.vercel.app/api?username=crystalhariga&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 
 ### 📫 Feel free to reach me via
