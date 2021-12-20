@@ -7,7 +7,7 @@
 
 ## Data Analytics Projects
 ### Visualization
-- [Starting a Small Business in 2021](https://github.com/crystalhariga/data_visualization_consultancy)
+- [Post-COVID Small Business Launch](https://github.com/crystalhariga/data_visualization_consultancy)
 
 ### Modelling
 - [Predicting Cancer Cases in the US](https://github.com/crystalhariga/cancer_ml)
