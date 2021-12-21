@@ -14,7 +14,7 @@
 - [Predicting Customer's Response to a Digital Marketing Campaign](https://github.com/crystalhariga/predictive-modeling_digital-marketing)
 
 ### End-to-End
-- [Movie Recommender Web App](https://github.com/crystalhariga/movie-recommender-2021)
+- [Movie Catalog Web App](https://github.com/crystalhariga/movie-catalog)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crystalhariga)](https://github.com/anuraghazra/github-readme-stats)
