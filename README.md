@@ -15,7 +15,7 @@
 
 
 ### 📫 Feel free to reach me via
-[LinkedIn](https://www.linkedin.com/in/cahyarini-hariga/) / Email chariga@brandeis.edu
+[LinkedIn](https://www.linkedin.com/in/cahyarini-hariga/) / Email cahyarinihariga@gmail.com
 
 
 ### :bell: Stay tuned for upcoming projects!
